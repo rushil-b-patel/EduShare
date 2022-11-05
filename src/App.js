@@ -15,11 +15,8 @@ function App() {
       <div className='app_body'>
         <Sidebar />
         <Feed />
-      </div>
-        {/* Sidebar */}
-        {/* Feed */}
         {/* Widgets */}
-
+        </div>
     </div>
   );
 }
